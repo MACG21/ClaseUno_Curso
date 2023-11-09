@@ -37,6 +37,11 @@ public class DiaMesAnio {
         default: 
             System.out.println("¡La fecha ingresada es correcta!");
             System.out.println("El mes de: "+ dia+ "/"+mes+"/"+anio+ ", tiene 31 dias.");
+<<<<<<< HEAD
+=======
+    }
+    
+>>>>>>> e28ab6fe44dea26dfd96d4774670a29bea79ce03
     }
     
     }
